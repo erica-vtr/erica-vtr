@@ -4,7 +4,7 @@ Meu nome Erica Vitoria
 
 - Estou estudando no Alura
 - Estou me desenvolvendo no ingles
-- Utilizo esse espaço pra a minha organização e compartilhar o mru projeto
+- Utilizo esse espaço pra a minha organização e compartilhar o meu projeto
 <!--
 **erica-vtr/erica-vtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
